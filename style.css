@@ -1,0 +1,105 @@
+*, html {
+	font-family: 'Quicksand', sans-serif;
+}
+
+.backgroundImages {
+    color: rgb(255, 255, 255);    
+    margin: 0px !important;
+	padding: 0px !important;    
+}
+
+#travel {
+	background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/travel3.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    height: 90vh;
+}
+
+#traveling {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Viajes_individuales/Viajes_10.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 80vh;
+}
+
+#car_rentals {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Alquiler_de_autos/Carros_6.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 80vh;
+}
+
+#spain {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/España/España_2.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#peru {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Peru/Peru_3.jpeg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#chile {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Chile/Chile_1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#col {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Col/Col_4.jpeg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#mex {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Mexico/Mexico_2.png");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#guatemala {
+    background: linear-gradient(rgba(0, 0, 0, 0.651), rgba(0, 0, 0, 0.685)), url("./images/Chile/Chile_1.jpg");
+	background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;    
+    border-radius: 5px;
+    height: 40vh;
+}
+
+#travel h1 {	
+    border-radius: 22px;    
+    color: #fff;
+}
+
+#productos, #register {    
+    color: #fff;
+}
+
+.title{
+    font-weight: bold;
+}
+[data-title] {
+    overflow: hidden;
+}
